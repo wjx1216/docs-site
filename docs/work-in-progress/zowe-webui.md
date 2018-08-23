@@ -4,9 +4,18 @@
 
 _Before following the tutorial, please navigate to [https://www-01.ibm.com/events/wwe/ast/mtm/zowe.nsf/enrollall?openform](https://www-01.ibm.com/events/wwe/ast/mtm/zowe.nsf/enrollall?openform) and register for a username and password to access the mainframe. You will need this to login to your system and complete the tutorial_
 
-Users of Zowe can interact with the zLux WebUi by pointing their browser at their mainframe system. This UI will include all the apps installed on the Zowe mainframe system currently. While it is possible to develop new apps and deploy them on our mainframe directly, it is often easier to create a local instance of the WebUi (known as zLUX) on our desktop. From here, we can play with the example-server, make changes to apps already installed, and create our own applications.
+This tutorial will walk you through the process of adding new apps to the Zowe WebUi, and teach you how to communicate with other parts of Zowe. By the end of this tutorial, you will:
+
+1. Know how to create an App that shows up on the Desktop
+1. Know how to create a Dataservice which implements a simple REST API
+1. Be introduced to Typescript programming
+1. Be introduced to simple Angular web development
+1. Have experience in working with the Zowe App framework
+1. Become familiar with one of the Zowe App widgets: the grid widget
 
 ## Standup a local version of the zLUX Example Server
+
+While it is possible to develop new apps and deploy them on our mainframe directly, it is often easier to create a local instance of the WebUi (known as zLUX) on our desktop. From here, we can play with the example-server, make changes to apps already installed, and create our own applications.
 
 ### 1. Acquire the source code
 
@@ -94,17 +103,6 @@ Once here, you should be greeted with a Login screen and a few example Apps in t
 Next we will create and add our own app to Zowe.
 
 The rest of the tutorial contains code snippets and descriptions that you can piece together to build a complete app. It builds off the project skeleton code found at the [github project repo](https://github.com/zowe/workshop-user-browser-app).
-
-By the end of this tutorial, you will:
-
-1. Know how to create an App that shows up on the Desktop
-1. Know how to create a Dataservice which implements a simple REST API
-1. Be introduced to Typescript programming
-1. Be introduced to simple Angular web development
-1. Have experience in working with the Zowe App framework
-1. Become familiar with one of the Zowe App widgets: the grid widget
-
-So, let's get started!
 
 1. [Constructing an App Skeleton](#constructing-an-app-skeleton)
    1. [Defining your first Plugin](#defining-your-first-plugin)
