@@ -13,7 +13,7 @@ module.exports = {
     nav: [
       { text: 'Developer Tutorials', link: '/guides/intro' },
       { text: 'Samples', link: '/samples/intro' },
-      { text: 'FAQ', link: '/work-in-progress/faq-section' },
+      { text: 'FAQ', link: '/faq-section/intro' },
       { text: 'User Guide', link: '/user-guide/aboutthisdoc' },
       { text: 'Zowe.org', link: 'https://zowe.org' }
     ],
@@ -65,7 +65,7 @@ module.exports = {
           ]
         }
       ],
-      '/work-in-progress/': ['faq-section'],
+      '/faq-section/': ['intro', 'install-troubleshooting'],
       '/user-guide/': [
         {
           title: 'About this documentation',
