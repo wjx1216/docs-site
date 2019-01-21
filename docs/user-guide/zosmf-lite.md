@@ -127,6 +127,9 @@ The following system changes are described in this chapter:
 - [Accessing the z/OSMF Welcome page](#accessing-the-zosmf-welcome-page)
 - [Mounting the z/OSMF user file system at IPL time](#mounting-the-zosmf-user-file-system-at-ipl-time)
 
+Check out the video for a demo of the process:
+
+<iframe class="embed-responsive-item" id="youtubeplayer" title="Creating a z/OSMF nucleus on your system demo" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/ebJb9RR9x9c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 
 ### Running job IZUNUSEC to create security
 
