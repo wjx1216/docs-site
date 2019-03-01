@@ -128,6 +128,7 @@ The following system changes are described in this chapter:
 - [Mounting the z/OSMF user file system at IPL time](#mounting-the-zosmf-user-file-system-at-ipl-time)
 
 The sample jobs that you might use are available for download:
+
 [Download sample jobs](zosmf_lite_samples.zip)
 
 Check out the video for a demo of the process:
