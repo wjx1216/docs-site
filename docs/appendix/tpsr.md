@@ -199,7 +199,7 @@ This section lists the third-party libraries for each Zowe component and the ass
 | Imperative CLI Framework | isarray |  v1.0.0 | [MIT](http://opensource.org/licenses/mit-license) | [isarray](https://www.github.com/juliangruber/isarray.git) |
 | Imperative CLI Framework | isexe |  v2.0.0 | [ISC](http://en.wikipedia.org/wiki/ISC_license) | [isexe](https://www.github.com/isaacs/isexe.git) |
 | Imperative CLI Framework | isstream |  v0.1.2 | [MIT](http://opensource.org/licenses/mit-license) | [isstream](https://www.github.com/rvagg/isstream.git) |
-| Imperative CLI Framework | js-yaml |  v3.9.0 | [MIT](http://opensource.org/licenses/mit-license) | [js-yaml](https://www.github.com/nodeca/js-yaml.git) |
+| Imperative CLI Framework | js-yaml |  v3.13.0 | [MIT](http://opensource.org/licenses/mit-license) | [js-yaml](https://www.github.com/nodeca/js-yaml.git) |
 | Imperative CLI Framework | jsbn |  v0.1.1 | [MIT](http://opensource.org/licenses/mit-license) | [jsbn](https://www.github.com/andyperlitch/jsbn.git) |
 | Imperative CLI Framework | json-parse-better-errors |  v1.0.2 | [MIT](http://opensource.org/licenses/mit-license) | [json-parse-better-errors](https://www.github.com/zkat/json-parse-better-errors) |
 | Imperative CLI Framework | json-schema |  v0.2.3 | BSD* | [json-schema](https://www.github.com/kriszyp/json-schema) |
@@ -2923,7 +2923,7 @@ This section lists the third-party libraries for each Zowe component and the ass
 | Zowe CLI | isarray |  v1.0.0 | [MIT](http://opensource.org/licenses/mit-license) | [isarray](https://www.github.com/juliangruber/isarray.git) |
 | Zowe CLI | isexe |  v2.0.0 | [ISC](http://en.wikipedia.org/wiki/ISC_license) | [isexe](https://www.github.com/isaacs/isexe.git) |
 | Zowe CLI | isstream |  v0.1.2 | [MIT](http://opensource.org/licenses/mit-license) | [isstream](https://www.github.com/rvagg/isstream.git) |
-| Zowe CLI | js-yaml |  v3.9.0 | [MIT](http://opensource.org/licenses/mit-license) | [js-yaml](https://www.github.com/nodeca/js-yaml.git) |
+| Zowe CLI | js-yaml |  v3.13.0 | [MIT](http://opensource.org/licenses/mit-license) | [js-yaml](https://www.github.com/nodeca/js-yaml.git) |
 | Zowe CLI | jsbn |  v0.1.1 | [MIT](http://opensource.org/licenses/mit-license) | [jsbn](https://www.github.com/andyperlitch/jsbn.git) |
 | Zowe CLI | json-parse-better-errors |  v1.0.2 | [MIT](http://opensource.org/licenses/mit-license) | [json-parse-better-errors](https://www.github.com/zkat/json-parse-better-errors) |
 | Zowe CLI | json-schema |  v0.2.3 | BSD* | [json-schema](https://www.github.com/kriszyp/json-schema) |
