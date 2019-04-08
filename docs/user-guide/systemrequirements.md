@@ -32,27 +32,19 @@ Before installing Zowe, ensure that your environment meets the prerequisites.
 
 ## System requirements for Zowe CLI
 
-Before you install Zowe CLI, make sure your system meets the following requirements:
-
-### Prerequisite software
-
-The following prerequisites for Windows, Mac, and Linux are required if you are installing Zowe CLI from a local package. If you are installing Zowe CLI from Bintray registry, you only require Node.js and npm.
-
-**Note:** As a best practice, we recommend that you update Node.js regularly to the latest Long Term Support (LTS) version.
-
-Ensure that the following prerequisite software is installed on your computer:
+Meet the following requirements before you install Zowe CLI:
 
 - [**Node.js V8.0 or later**](https://nodejs.org/en/download/)
 
-    **Tip:** You might need to restart the command prompt after installing Node.js. Issue the command `node --version` to verify that Node.js is installed.
+    **Tip:** You might need to restart the command prompt after installing Node.js. Issue the command `node --version` to verify that Node.js is installed. As a best practice, we recommend that you update Node.js regularly to the latest Long Term Support (LTS) version.
 
 - **Node Package Manager V5.0 or later**
 
     npm is included with the Node.js installation. Issue the command `npm --version` to verify that npm is installed.
 
-### Supported platforms
+### Supported platforms for Zowe CLI
 
-Zowe CLI is supported on any platform where Node.js 8.0 or 10 is available, including Windows, Linux, and Mac operating systems. For information about known issues and workarounds, see [Troubleshooting Zowe CLI](../troubleshoot/troubleshoot-cli.md).
+Zowe CLI is supported on any platform where Node.js 8.0 or 10 is available, including Windows, Linux, and Mac operating systems. 
 
 Zowe CLI is designed and tested to integrate with z/OSMF running on IBM z/OS Version 2.2 or later. Before you can use Zowe CLI to interact with the mainframe, system programmers must install and configure IBM z/OSMF in your environment.
 
